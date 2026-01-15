@@ -1,0 +1,39 @@
+[
+  {
+    "agentId": "jett",
+    "abilities": [
+      {
+        "id": "jett_cloudburst",
+        "name": "Cloudburst",
+        "description": "",
+        "type": "basic",
+        "cost": 200,
+        "maxCharges": 1
+      },
+      {
+        "id": "jett_updraft",
+        "name": "Updraft",
+        "description": "",
+        "type": "basic",
+        "cost": 150,
+        "maxCharges": 2
+      },
+      {
+        "id": "jett_tailwind",
+        "name": "Tailwind",
+        "description": "",
+        "type": "signature",
+        "cost": 0,
+        "maxCharges": 1
+      },
+      {
+        "id": "jett_bladestorm",
+        "name": "Blade Storm",
+        "description": "",
+        "type": "ultimate",
+        "cost": 7,
+        "maxCharges": 1
+      }
+    ]
+  }
+]

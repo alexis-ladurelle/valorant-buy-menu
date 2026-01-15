@@ -1,0 +1,10 @@
+[
+  {
+    "id": "jett",
+    "name": "Jett",
+    "role": "Duelist",
+    "description": "Representing her home country of South Korea, Jett's agile and evasive fighting style lets her take risks no one else can.",
+    "iconImage": "public/images/agent/agentIconImage/jett.png",
+    "portraitImage": "public/images/agent/agentPortraitImage/jett.png"
+  }
+]
